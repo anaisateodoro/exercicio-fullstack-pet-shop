@@ -1,2 +1,3 @@
-# exercicio-fullstack-pet-shop
-exercício em construção - exemplo fullstack pet-shop
+# exercício-fullstack-pet-shop-em-construcao
+
+##Exercício de exemplo fullstack pet-shop que está em desenvolvimento.
